@@ -1,0 +1,23 @@
+{
+  "name": "deckarazzi",
+  "version": "1.0.0",
+  "description": "Cuts out your deck from Hearthstone screenshots",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeppe Ryskov Larsen",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.2.20"
+  },
+  "window": {
+    "toolbar": false,
+    "frame": false,
+    "width": 300,
+    "height": 700,
+    "resizable": false,
+    "title": "Deckarazzi"
+  },
+  "chromium-args": "--forced-compositing-mode"
+}
