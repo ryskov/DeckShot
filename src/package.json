@@ -12,7 +12,7 @@
     "jimp": "^0.2.20"
   },
   "window": {
-    "toolbar": false,
+    "toolbar": true,
     "frame": false,
     "width": 300,
     "height": 700,

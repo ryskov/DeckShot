@@ -85,6 +85,8 @@
 					src.onload = function () {
 						deckImage.getContext('2d').drawImage(src, 0, 0);
 					};
+					
+					cb();
 				});
 		});
 	}
