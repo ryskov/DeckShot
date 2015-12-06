@@ -11,7 +11,7 @@ mv app.zip ./../build/app.nw
 
 cd ..
 
-cat ./../nwjs-v0.12.3-win-ia32/nw.exe build/app.nw > build/deckarazzi.exe
+cat ./../nwjs-v0.12.3-win-ia32/nw.exe build/app.nw > build/DeckShot.exe
 cp ./../nwjs-v0.12.3-win-ia32/nw.pak build/
 cp ./../nwjs-v0.12.3-win-ia32/icudtl.dat build/
 
