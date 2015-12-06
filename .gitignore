@@ -1,3 +1,4 @@
 typings/
 build/*
 !build/.placeholder
+*.png
