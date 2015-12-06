@@ -15,4 +15,9 @@ Deckarazzi crops out your deck from your Hearthstone screenshots. It also featur
 - Configuration
 	- Screenshot folder (defaults to Desktop)
 	- DeckShot folder, where cropped out decks will be saved
-	- 
+	- Optional key-color for OBS
+	- Streaming mode on/off
+
+### Streaming mode
+
+When in streaming mode, the DeckShot-view will reserve extra vertical space, to take into account longer decks. This is needed because OBS does not handle resizing of window-captures very well. This extra space will be filled by a key-color that can be filtered out by OBS.
