@@ -12,15 +12,15 @@ DeckShot crops out your deck from your Hearthstone screenshots. It also features
 	- Showing the newest DeckShot in a frameless, draggable window (done)
 		- Reserves space vertically with a key-color to be filtered out by OBS (done)
 	- A main window with access to configuration and possibility to show/hide DeckShot view
+	- Art
+		- Icon for the application
+		- UI design 
 - Configuration
 	- Screenshot folder (defaults to Desktop)
 	- DeckShot folder, where cropped out decks will be saved
 	- Auto-delete screenshot from screenshot folder, once DeckShot has been created
 	- Optional key-color for OBS
 	- Streaming mode on/off
-- Art
-	- Icon for the application
-	- UI design 
 
 ### Streaming mode
 
