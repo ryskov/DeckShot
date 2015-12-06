@@ -18,7 +18,14 @@ DeckShot crops out your deck from your Hearthstone screenshots. It also features
 	- Auto-delete screenshot from screenshot folder, once DeckShot has been created
 	- Optional key-color for OBS
 	- Streaming mode on/off
+- Art
+	- Icon for the application
+	- UI design 
 
 ### Streaming mode
 
 When in streaming mode, the DeckShot-view will reserve extra vertical space, to take into account longer decks. This is needed because OBS does not handle resizing of window-captures very well. This extra space will be filled by a key-color that can be filtered out by OBS.
+
+## Contributions
+
+Contributions are highly encouraged. Use pull requests and submit issues. If you need inspiration on what to do, just have a look at the above roadmap.
